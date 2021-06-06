@@ -1,0 +1,1 @@
+docker run -it -d --privileged --name ubuntu-bionic ubuntu-bionic:1.0
